@@ -83,11 +83,11 @@
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aadityaguptaaa&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aadityaguptaaa&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br>
 
@@ -111,27 +111,16 @@
 
 
 
-
-<h1 align="center">Github Stats</h1> 
-
-<div align="center">
-  
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=adityaguptaaa&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-</div>
+<h1 align="center">Github Stats</h1>
 
 <div align="center">
   
-  <img 
-    alt="Aaditya's GitHub stats" 
-    src="https://github-readme-stats.vercel.app/api?username=aadityaguptaaa&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" 
-    width="46%" 
-  /> 
-
-  <img 
-    alt="Top Languages used" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaguptaaa&layout=compact&theme=dark" 
-    width="46%" 
-  />
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=aadityaguptaaa&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
+
+<img align="left" alt="Aaditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aadityaguptaaa&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" width="50%" />
+
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaguptaaa&layout=compact&theme=dark" width="46%" />
+
+<br>
