@@ -102,7 +102,7 @@
 <a href="https://aadityaguptaaa.github.io/My-Portfolio/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadityaguptaaa&repo=My-Portfolio&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://resume-craftx.netlify.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadityaguptaaa&repo=Resume-Craft&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://aadityaguptaaa.github.io/weather-app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadityaguptaaa&repo=weather-app-&show_icons=true&theme=great-gatsby"></a>
-<a href="https://aadityaguptaaa.github.io/qr-code-generator/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadityaguptaaa&repo=qr-code-generator&show_icons=true&theme=great-gatsby&cache_seconds=60"></a>
+<a href="https://aadityaguptaaa.github.io/qr-code-generator/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadityaguptaaa&repo=qr-code-generator&show_icons=true&theme=great-gatsby&cache_seconds=10"></a>
 </div>
 
 
