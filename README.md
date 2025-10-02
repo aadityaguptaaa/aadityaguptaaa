@@ -32,7 +32,7 @@
 <a href="mailto:aadityavidit@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="100" width="41" /></a>
 <a href="https://www.leetcode.com/aadityaguptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aadityaguptaa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ag6457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ag6457" height="30" width="40" /></a>
-<a href="https://instagram.com/aadityaxg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadityaxg" height="30" width="40" /></a>
+<a href="https://instagram.com/aadityaxg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadityaxg" height="30" width="43" /></a>
 <a href="https://www.codechef.com/users/aadityaxg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aadityaxg" height="30" width="40" /></a>
 
 
