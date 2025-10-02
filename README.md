@@ -23,7 +23,8 @@
 
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
------
+<br>
+
 ### Connect with me:
 
 <p align="left">
@@ -37,7 +38,7 @@
 </p>
 
 
------  
+<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -111,7 +112,7 @@
 
 
 
-
+<br>
 
 
 
