@@ -96,23 +96,13 @@
 
 <h1 align="center">Projects</h1>
 
-<div align="center">
+</div>
+<div  align="center">
  
-<a href="https://aadityaguptaaa.github.io/My-Portfolio/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadityaguptaaa&repo=My-Portfolio&show_icons=true&theme=great-gatsby">
-</a>
-
-<a href="https://resume-craftx.netlify.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadityaguptaaa&repo=Resume-Craft&show_icons=true&theme=great-gatsby">
-</a>
-
-<a href="https://aadityaguptaaa.github.io/qr-code-generator/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadityaguptaaa&repo=qr-code-generator&show_icons=true&theme=great-gatsby">
-</a>
-
-<a href="https://aadityaguptaaa.github.io/weather-app-/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadityaguptaaa&repo=weather-app-&show_icons=true&theme=great-gatsby">
-</a>
+<a href="https://aadityaguptaaa.github.io/My-Portfolio/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadityaguptaaa&repo=My-Portfolio&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://resume-craftx.netlify.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadityaguptaaa&repo=Resume-Craft&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://aadityaguptaaa.github.io/qr-code-generator/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadityaguptaaa&repo=qr-code-generator&show_icons=true&theme=great-gatsby"></a>
+<a href="https://aadityaguptaaa.github.io/weather-app-/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadityaguptaaa&repo=weather-app-&show_icons=true&theme=great-gatsby"></a>
 
 </div>
 
