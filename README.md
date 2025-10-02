@@ -112,7 +112,7 @@
 
 
 
-<h1 align="center">Github Stats</h1>
+<h1 align="center">Github Stats</h1> 
 
 <div align="center">
   
@@ -120,13 +120,13 @@
 
 </div>
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-
+<div align="center">
+  
   <img 
     alt="Aaditya's GitHub stats" 
     src="https://github-readme-stats.vercel.app/api?username=aadityaguptaaa&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" 
     width="46%" 
-  />
+  /> 
 
   <img 
     alt="Top Languages used" 
@@ -135,5 +135,3 @@
   />
 
 </div>
-
-
