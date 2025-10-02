@@ -28,7 +28,7 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/aadityaxgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadityaxgupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aadityaxgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadityaxgupta" height="30" width="43" /></a>
 <a href="mailto:aadityavidit@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="100" width="41" /></a>
 <a href="https://www.leetcode.com/aadityaguptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aadityaguptaa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ag6457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ag6457" height="30" width="40" /></a>
