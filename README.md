@@ -11,7 +11,7 @@
 -----
 
 ![profile count](https://komarev.com/ghpvc/?username=aadityaguptaaa&color=red)&nbsp;
-[![GitHub aadityaguptaaa](https://img.shields.io/github/followers/aadityaguptaaa?label=follow&style=social)](https://github.com/aadityaguptaaa)&nbsp;
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I’m a 3rd year B.Tech student in Computer Science and Engineering, passionate about software development and exploring cutting-edge technologies.  
