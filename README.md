@@ -93,7 +93,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadityaguptaaa&theme=matrix&no-bg=true&no-frame=true">
+ (https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
 </div>
 
 <br><br>
