@@ -134,9 +134,8 @@ aadityaguptaaa
 ---
 
 
+<div align="center">
+  <strong>📍 Based in Chennai, India</strong><br/>
+  <i>Open to opportunities • Always building • Always learning</i>
+</div>
 
-<img align="left" alt="Aaditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aadityaguptaaa&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" width="50%" />
-
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaguptaaa&layout=compact&theme=dark" width="46%" />
-
-<br>
