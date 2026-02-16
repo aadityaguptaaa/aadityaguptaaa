@@ -116,19 +116,24 @@
 </div>
 
 
+aadityaguptaaa
 
 
-<br>
 
 
+---
 
-<h1 align="center">Github Stats</h1>
+## 📊 GitHub Stats
 
-<div align="center">
-  
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=aadityaguptaaa&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=aadityaguptaaa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" height="180" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aadityaguptaaa&layout=compact&theme=react&border_radius=10" height="180" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aadityaguptaaa&theme=react&border_radius=10" height="180" />
+</p>
 
-</div>
+---
+
+
 
 <img align="left" alt="Aaditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aadityaguptaaa&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" width="50%" />
 
