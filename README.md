@@ -29,7 +29,7 @@
 
 ### 🌐 Connect with me:
 
-<table>
+<table border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td><a href="https://linkedin.com/in/aadityaxgupta" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
     <td><a href="https://www.leetcode.com/aadityaguptaa" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a></td>
@@ -38,10 +38,6 @@
     <td><a href="https://www.codechef.com/users/aadityaxg" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a></td>
   </tr>
 </table>
-
-
-<br>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
