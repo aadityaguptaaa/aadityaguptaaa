@@ -26,16 +26,17 @@
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
 <br>
-
 ### Connect with me:
 
-<p align="left">
-<a href="https://linkedin.com/in/aadityaxgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadityaxgupta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aadityaguptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aadityaguptaa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ag6457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ag6457" height="30" width="40" /></a>
-<a href="https://instagram.com/aadityaxg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadityaxg" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aadityaxg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aadityaxg" height="30" width="40" /></a>
-
+<table>
+  <tr>
+    <td><a href="https://linkedin.com/in/aadityaxgupta" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
+    <td><a href="https://www.leetcode.com/aadityaguptaa" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a></td>
+    <td><a href="https://www.hackerrank.com/ag6457" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a></td>
+    <td><a href="https://instagram.com/aadityaxg" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></td>
+    <td><a href="https://www.codechef.com/users/aadityaxg" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a></td>
+  </tr>
+</table>
 
 </p>
 
