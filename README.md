@@ -16,7 +16,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I’m a 3rd year B.Tech student in Computer Science and Engineering, passionate about software development and exploring cutting-edge technologies.  
+💡 &nbsp;I’m a 4rd year B.Tech student in Computer Science and Engineering, passionate about software development and exploring cutting-edge technologies.  
 🌱 &nbsp;Currently focusing on deep learning, computer vision, and full-stack development, while building real-world projects to enhance my skills.  
 🤝 &nbsp;I enjoy collaborating on innovative projects and contributing to open source communities.  
 💬 &nbsp;Open to internships, research opportunities, and discussions related to AI, web development, and scalable software solutions.  
